@@ -1,6 +1,8 @@
 # created by virtualenv automatically
 .venv
 .idea
+sp_api.py
 __pycache__/
 /templates/first.html
 /templates/about.html
+/templates/sp_home.html
